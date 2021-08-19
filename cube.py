@@ -1,3 +1,4 @@
+#main function to calculate the sum starting as sumOfSeries
 def sumOfSeries(n):
   sum=0
   
